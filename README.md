@@ -1,16 +1,16 @@
-★ Devploit
+## ★ Devploit
 
-Author: Joker-Security [ dev-labs ]
+   Author: Joker-Security [ dev-labs ]
 
-★ Description:
+## ★ Description:
 
-Devploit is a simple python script to Information Gathering 
-
-★ Download:
+    This script is for downloading and installing tools
+ 
+## ★ Download:
 
 ● git clone https://github.com/joker25000/Devploit
 
-★ How to use:
+## ★ How to use:
 
 cd Devploit
 
@@ -22,7 +22,7 @@ other method
 
 python Devploit
 
-★ Properties :
+## ★ Properties :
 
 ● DNS Lookup
 ● Whois Lookup
@@ -37,13 +37,11 @@ python Devploit
 ● About !!!
 ● Exit
 
+## ★ Screenshot:
 
+![pic1](http://i.imgur.com/ZhqvfgS.png)
 
-★ Screenshot:
-
-![pic1] (http://i.imgur.com/ZhqvfgS.png)
-
-★ About:
+## ★ About:
 
 ● WEBSITE : http://dev-labs.co
 
@@ -54,3 +52,4 @@ python Devploit
 ● FACE Pg2: https://facebook.com/kali.linux.pentesting.tutorials
 
 ● Tested On : Windows10 / Linux
+
