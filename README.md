@@ -4,7 +4,7 @@
 
 ## ★ Description:
 
-    This script is for downloading and installing tools
+This script is for downloading and installing tools
  
 ## ★ Download:
 
