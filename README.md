@@ -41,6 +41,10 @@ python Devploit
 
 ![pic1](http://i.imgur.com/ZhqvfgS.png)
 
+##  ★ video tutorial: 
+
+https://www.youtube.com/watch?v=FghJcSaVL2U
+
 ## ★ About:
 
 ● WEBSITE : http://dev-labs.co
