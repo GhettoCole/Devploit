@@ -41,7 +41,7 @@ python Devploit
 
 ★ Screenshot:
 
-![pic1] http://i.imgur.com/ZhqvfgS.png
+![pic1] (http://i.imgur.com/ZhqvfgS.png)
 
 ★ About:
 
