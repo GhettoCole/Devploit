@@ -51,5 +51,5 @@ python Devploit
 
 ● FACE Pg2: https://facebook.com/kali.linux.pentesting.tutorials
 
-● Tested On : Windows10 / Linux
+● Tested On : Windows / Linux
 
