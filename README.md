@@ -4,8 +4,8 @@
 
 ## ★ Description:
 
-This script is for downloading and installing tools
- 
+Devploit is a simple python script to Information Gathering 
+
 ## ★ Download:
 
 ● git clone https://github.com/joker25000/Devploit
