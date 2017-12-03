@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=FghJcSaVL2U
 
 ● YOUTUBE : https://www.youtube.com/c/Professionalhacker25
 
-● FACE Pg1: https://facebook.com/AnonymousPalestine.vip
+● Twitter : https://twitter.com/SecurityJoker
 
 ● FACE Pg2: https://facebook.com/kali.linux.pentesting.tutorials
 
