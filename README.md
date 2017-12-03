@@ -53,7 +53,7 @@ https://www.youtube.com/watch?v=FghJcSaVL2U
 
 ● Twitter : https://twitter.com/SecurityJoker
 
-● FACE Pg2: https://facebook.com/kali.linux.pentesting.tutorials
+● FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
 
 ● Tested On : Windows / Linux
 
