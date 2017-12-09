@@ -1,0 +1,43 @@
+#!/bin/bash
+#
+#
+# author : Joker-Security 
+# Tested on Kali Linux / lxle-linux
+# Simple script for Install Devploit
+#Colors
+cyan='\e[0;36m'
+green='\e[0;32m'
+lightgreen='\e[1;32m'
+white='\e[1;37m'
+red='\e[1;31m'
+yellow='\e[1;33m'
+blue='\e[1;34m'
+#Options
+path=`pwd` # Path
+#Check root exist
+[[ `id -u` -eq 0 ]] > /dev/null 2>&1 || { echo  $red "You must be root to run the script"; exit 1; }
+echo "██████╗ ███████╗██╗   ██╗██████╗ ██╗      ██████╗ ██╗████████╗    ";
+echo "██╔══██╗██╔════╝██║   ██║██╔══██╗██║     ██╔═══██╗██║╚══██╔══╝    ";
+echo "██║  ██║█████╗  ██║   ██║██████╔╝██║     ██║   ██║██║   ██║       ";
+echo "██║  ██║██╔══╝  ╚██╗ ██╔╝██╔═══╝ ██║     ██║   ██║██║   ██║       ";
+echo "██████╔╝███████╗ ╚████╔╝ ██║     ███████╗╚██████╔╝██║   ██║       ";
+echo "╚═════╝ ╚══════╝  ╚═══╝  ╚═╝     ╚══════╝ ╚═════╝ ╚═╝   ╚═╝v1.1   ";
+echo "                                                                  ";
+echo "                  Devploit Installer "      
+echo -e $green "[ ! ] Moving Devploit folder "
+mkdir /usr/share/Devploit
+cp Devploit /usr/share/Devploit
+echo -e $blue "[ ✔ ]Done"
+echo "#!/bin/sh" >> /usr/bin/Devploit
+echo "cd /usr/share/Devploit" >> /usr/bin/Devploit
+echo "exec python Devploit \"\$@\"" >> /usr/bin/Devploit
+cp $path/Dev/Devploit.desktop /usr/share/applications/Devploit.desktop
+cp $path/Dev/kali-Devploit.png /usr/share/icons/kali-Devploit.png
+cp Devploit /usr/local/sbin/Devploit
+chmod +x /usr/local/sbin/Devploit
+chmod +x Devploit
+echo -e $red "Devploit Is Installed In Application (information gathering)"
+echo -e $green"╔────────────────────────────╗ "
+echo -e $blue "|Run in Terminal<(Devploit)> |  "
+echo -e $green"╚────────────────────────────╝ "
+exit

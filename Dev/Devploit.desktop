@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Devploit
+Encoding=UTF-8
+Exec=sh -c "Devploit;${SHELL:-bash}"
+Icon=kali-Devploit.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=01-info-gathering;01-04-network-scanners;02-vulnerability-analysis;
+X-Kali-Package=Devploit
+Name[C]=Devploit.desktop
