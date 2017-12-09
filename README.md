@@ -1,4 +1,4 @@
-## ★ Devploit V 1.1
+## ★ Devploit . version 1.1
 
    Author: Joker-Security [ dev-labs ]
 
