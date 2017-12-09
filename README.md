@@ -1,4 +1,4 @@
-## ★ Devploit
+## ★ Devploit V 1.1
 
    Author: Joker-Security [ dev-labs ]
 
@@ -14,13 +14,13 @@ Devploit is a simple python script to Information Gathering
 
 cd Devploit
 
-chmod +x Devploit
+chmod +x install
 
-./Devploit
+./install
 
-other method
+Run in Terminal 
 
-python Devploit
+Devploit
 
 ## ★ Properties :
 
@@ -34,12 +34,14 @@ python Devploit
 ● Zone Transfer
 ● HTTP Header
 ● Host Finder
+● IP-Locator
+● Update tool
 ● About !!!
 ● Exit
 
 ## ★ Screenshot:
 
-![pic1](http://i.imgur.com/ZhqvfgS.png)
+<img src="https://i.imgur.com/k0XG34B.png" width="23%"></img> <img src="https://i.imgur.com/Fk96LNo.png" width="23%"></img> <img src="https://i.imgur.com/sAJ74dY.png" width="23%"></img> 
 
 ##  ★ video tutorial: 
 
